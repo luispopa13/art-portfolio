@@ -1,4 +1,0 @@
-[build]
-  functions = "api"
-  command = "npm --prefix frontend run build"
-  publish = "frontend/dist"
